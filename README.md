@@ -40,3 +40,8 @@ Copy your project's URL and submit it to freeCodeCamp.
 Dataset Source
 Dua, D. and Graff, C. (2019). UCI Machine Learning Repository. Irvine, CA: University of California, School of Information and Computer Science.
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=akshatmiglani&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatmiglani&theme=blue-green)
+
+![GitHub Contributors Image](https://contrib.rocks/image?repo=akshatmiglani/DataAnalysis-Demographic-Data-Analyzer)
